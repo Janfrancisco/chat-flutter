@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543408956594",
+    "firebase_url": "https://chatfluteer.firebaseio.com",
+    "project_id": "chatfluteer",
+    "storage_bucket": "chatfluteer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543408956594:android:25e308ef7fcc36e362d5ab",
+        "android_client_info": {
+          "package_name": "br.com.ramalho.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543408956594-c7euk8entkbkadutv9254tierkke61do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ramalho.chat",
+            "certificate_hash": "b566256cc12f46e2183de8b3e4ad93eb3990dbdc"
+          }
+        },
+        {
+          "client_id": "543408956594-iuen3ak117vetu4upcshulscitbk2kh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFO2YuRVTgSJITsI4K-P1ktJOP-YvtfVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543408956594-iuen3ak117vetu4upcshulscitbk2kh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
